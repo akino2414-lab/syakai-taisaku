@@ -1,0 +1,6 @@
+{
+  "name": "中学社会マスター - 愛知県高校入試対応",
+  "description": "愛知県の公立高校入試に対応した中学社会（地理・歴史・公民）の4択クイズ＆因果関係がひと目でわかる流れフローチャート学習アプリ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
